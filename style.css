@@ -1,0 +1,112 @@
+
+header{
+    width: auto;
+    height: 100px;
+}
+
+#pattern{
+    background-image: url(img/pattern.png);
+    background-size: 27%;
+    background-repeat: repeat-x;
+    background-color: rgb(0, 195, 255);
+    width: auto;
+    height: 100px;
+    position: relative;
+}
+
+#logo{
+    width: 10%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.box-img{
+    height: auto;
+}
+
+#tim1{
+    background-image: url(img/tim-1.jpg);
+    width: 55%;
+}
+
+#tim2{
+    background-image: url(img/tim-2.jpg);
+    width: 40%;
+}
+
+.img-main{
+    height: 500px;
+    display: inline-block;
+    background-size: cover;
+    
+}
+
+
+.little{
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.paragraph{
+    margin-top: 20px;
+}
+
+.yellow{
+    background-color: yellow;
+    display: inline-block;
+}
+
+table{
+    text-align: left;
+}
+
+.cell-width{
+    width: 300px;
+}
+
+.blue {
+    background-color: rgb(0, 195, 255);
+    color:rgb(255, 255, 255)
+}
+
+#blue{
+    color: rgb(0, 195, 255);
+    display: inline-block;
+}
+
+.light-blue{
+    background-color: rgb(189, 240, 255);
+}
+
+#if1{
+    background-image: url(img/monitor.jpg);
+}
+
+#if2{
+    background-image: url(img/graph.jpg);
+}
+
+.white{
+    color: rgb(255, 255, 255);
+    padding-left: 10px;
+    padding-top: 7px;
+}
+
+
+.img-footer{
+    width: 15%;
+    height: 150px;
+    display: block;
+    margin-top: 10px;
+    background-size: cover;
+}
+
+.grey{
+    color: rgb(139, 139, 139);
+    margin-top: 20px;
+}
