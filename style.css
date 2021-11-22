@@ -12,6 +12,7 @@ header{
     width: auto;
     height: 100px;
     position: relative;
+    
 }
 
 #logo{
@@ -19,6 +20,7 @@ header{
     position: absolute;
     bottom: 0;
     left: 0;
+    margin-left: 10%;
 }
 /* fine css header */
 
