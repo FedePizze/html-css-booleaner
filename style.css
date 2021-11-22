@@ -1,4 +1,4 @@
-
+/* css header */
 header{
     width: auto;
     height: 100px;
@@ -20,7 +20,9 @@ header{
     bottom: 0;
     left: 0;
 }
+/* fine css header */
 
+/* css main */
 #title{
     font-size: 50px;
     font-weight: bold;
@@ -47,7 +49,6 @@ header{
     
 }
 
-
 .little{
     font-weight: bold;
     font-size: 12px;
@@ -62,6 +63,7 @@ header{
     display: inline-block;
 }
 
+/* css tebella */
 table{
     text-align: left;
 }
@@ -83,7 +85,10 @@ table{
 .light-blue{
     background-color: rgb(189, 240, 255);
 }
+/* finecss tebella */
+/* fine css main */
 
+/* css footer */
 #if1{
     background-image: url(img/monitor.jpg);
 }
@@ -111,3 +116,4 @@ table{
     color: rgb(139, 139, 139);
     margin-top: 20px;
 }
+/* fine css footer */
